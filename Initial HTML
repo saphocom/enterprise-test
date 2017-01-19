@@ -1,0 +1,11 @@
+<div id="calculator">
+	<!-- Screen and clear key -->
+	<div class="top">
+		<span class="clear">C</span>
+		<div class="screen"></div>
+	</div>
+	
+
+
+<!-- PrefixFree -->
+<script src="http://thecodeplayer.com/uploads/js/prefixfree-1.0.7.js" type="text/javascript" type="text/javascript"></script>
