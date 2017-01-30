@@ -1,1 +1,1 @@
-# enterprise-test
+# Sample Data for GitHub Public Connector
