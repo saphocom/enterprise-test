@@ -1,1 +1,1 @@
-# Sample Data for GitHub Public Connector
+# Sample Data for GitHub Public connector
